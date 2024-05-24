@@ -1,0 +1,28 @@
+object WebModule1: TWebModule1
+  OldCreateOrder = False
+  Actions = <
+    item
+      Name = 'WebActionItem1'
+      PathInfo = '/name'
+      OnAction = WebModule1WebActionItem1Action
+    end
+    item
+      Name = 'WebActionItem2'
+      PathInfo = '/post'
+      OnAction = WebModule1WebActionItem2Action
+    end>
+  Left = 862
+  Top = 391
+  Height = 150
+  Width = 215
+  object SDDatabase1: TSDDatabase
+    ServerType = stSQLBase
+    SessionName = 'Default'
+    Left = 80
+    Top = 40
+  end
+  object SDTable1: TSDTable
+    Left = 120
+    Top = 24
+  end
+end

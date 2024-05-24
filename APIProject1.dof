@@ -1,0 +1,120 @@
+[FileVersion]
+Version=6.0
+[Compiler]
+A=8
+B=0
+C=1
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=1
+K=0
+L=1
+M=0
+N=1
+O=1
+P=1
+Q=0
+R=0
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=1
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[Linker]
+MapFile=3
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=1
+RemoteSymbols=1
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=
+[Directories]
+OutputDir=Output
+UnitOutputDir=DCUs
+PackageDLLOutputDir=
+PackageDCPOutputDir=
+SearchPath=$(DELPHI)\Lib\Debug
+Packages=rtl;vcl;vclx;VclSmp;vclshlctrls;dbrtl;adortl;vcldb;qrpt;bdertl;dsnap;cds;bdecds;ibxpress;visualclx;visualdbclx;vclie;xmlrtl;inet;inetdbbde;inetdbxpress;inetdb;vcldbx;nmfast;dbexpress;dbxcds;dclOffice2k;soaprtl;cxLibraryVCLD6;dxPSCoreD6;dxcomnd6;dxPSLnksD6;cxEditorsVCLD6;dxThemeD6;cxDataD6;cxExtEditorsVCLD6;cxPageControlVCLD6;cxGridVCLD6;cxTreeListVCLD6;dxBarD6;dxBarDBNavD6;dxBarExtItemsD6;dxBarExtDBItemsD6;dxsbD6;dxDockingD6;dxPageControlD6;dxInsD6;dxDBEdD6;dxEdtrD6;dxObjInsD6;dxLayoutControlD6;dxLayoutControlcxEditAdaptersD6;dxNavBarD6;cxVerticalGridVCLD6;dxmdsd6;dxdbtrD6;dxtrmdD6;dxFlowChartD6;dxorgcD6;dxdborD6;dxForumLibD6;EQTLD6;ECQDBCD6;EQDBTLD6;EQGridD6;dxGrEdD6;dxExELD6;dxELibD6;Ims2d6;dcoutbar_d6;addict3_d6;addict3db_d6;ExceptionExpert6;madBasic_;madDisAsm_;madExcept_;SqlDir60;rmCmpLib_d6;PSUITE174;nsLogFile;InfoButton;RaizeComponentsVcl;nsNavigatorComponent;NovaAppBar;NovaDataSet;IBO40XRT_D6;IBO40CRT_D6;dxPSdxInsLnkD6;dxPSdxLCLnkD6;dxPSTLLnkD6;dxPSdxOILnkD6;Ecomp;SMExportD6;SMImportD6;GFDLIB60;ASG_Capture;HotKeyManager_D6plus;adgrm6;nsdxDBEditors;RaizeComponentsVclDb;dxPScxGridLnkD6;dxPScxCommonD6;dxPScxExtCommonD6;dxPScxPCProdD6;dxPScxTLLnkD6;dxPScxVGridLnkD6;dxPSdxDBGrLnkD6;dxPSdxDBCtrlLnkD6;dxPSdxDBTLLnkD6;dxPSdxDBTVLnkD6;dxPSdxOCLnkD6;dxPsPrVwAdvD6;nscxDBEditors;WinSkinD6R;indy;tmsd6;tmsexd6;tmsxlsd6
+Conditionals=IGNORE_CODE_SIGN_CHECK
+DebugSourceDirs=
+UsePackages=0
+[Parameters]
+RunParams="-debug"
+HostApplication=C:\WINDOWS\system32\inetsrv\w3wp.exe
+Launcher=
+UseLauncher=0
+DebugCWD=
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=D:\SW\Borland\Delphi6\Bin\
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1033
+CodePage=1252
+[Version Info Keys]
+FileVersion=1.0.0.0
+[Excluded Packages]
+d:\sw\borland\delphi6\Projects\Bpl\dclArcIWDialogs_d6_80.bpl=Arcana IW Dialogs (Design Time)
+d:\sw\borland\delphi6\Projects\Bpl\nsIWComponents.bpl=Novatech - Intraweb Components
+D:\Del6C\Dx\PrintSys3\Lib\dxPSdxOILnkD6.bpl=ExpressPrinting System ReportLink for ExpressRTTIInspector by Developer Express Inc.
+d:\sw\borland\delphi6\Projects\Bpl\GFDSTD60.bpl=Greatis Form Designer Design-Time Package
+D:\Del6C\Dx\Inspector2\Lib\dcldxExRwD6.bpl=ExpressInspector Extended Rows
+D:\Del6C\Indy10\LibD6\dclIndyCore60.bpl=Indy 10 Core Design Time
+D:\Del6C\Indy10\LibD6\dclIndyProtocols60.bpl=Indy 10 Protocols Design Time
+D:\SW\Borland\Delphi6\Projects\Bpl\tmsded6.bpl=TMS Component Pack design time support
+D:\SW\Borland\Delphi6\Projects\Bpl\tmsexd6.bpl=TMS Component Pack Extra
+d:\sw\borland\delphi6\Projects\Bpl\dclArcIWControlD6_80.bpl=Arcana IW Control Pack (Design Time)
+d:\sw\borland\delphi6\Projects\Bpl\dclArcIWGrids_D6_80.bpl=Arcana IntraWeb Grids
+D:\SW\Borland\Delphi6\Bin\dcldac60.bpl=Devart Data Access Components
+D:\SW\Borland\Delphi6\Bin\dacvcl60.bpl=Devart Data Access GUI related Components
+D:\SW\Borland\Delphi6\Bin\dclcrcontrols60.bpl=Devart Controls
+D:\SW\Borland\Delphi6\Bin\DataSetManager60.bpl=Devart DataSet Manager
+D:\Del6C\Dx\PrintSys3\Lib\dxPSTeeChartD6.bpl=ExpressPrinting System ReportLink for TeeChart by Developer Express Inc.
+D:\Del6C\Dx\PrintSys3\Lib\dxPSDBTeeChartD6.bpl=ExpressPrinting System ReportLink for DBTeeChart by Developer Express Inc.
+d:\sw\borland\delphi6\Projects\Bpl\AdvTrackBarPkgD6.bpl=TMS TAdvTrackBar
+D:\Del6C\Dx\PrintSys3\Lib\dxPSdxDBTVLnkD6.bpl=ExpressPrinting System ReportLink for ExpressDBTree by Developer Express Inc.
+D:\Del6C\Dx\PrintSys3\Lib\dxPSdxMVLnkD6.bpl=ExpressPrinting System ReportLink for ExpressMasterView by Developer Express Inc.
+D:\Del6C\Dx\PrintSys3\Lib\dxPSdxOCLnkD6.bpl=ExpressPrinting System ReportLinks for ExpressOrgChart by Developer Express Inc.
+D:\Del6C\Dx\PrintSys3\Lib\dxPSdxDBOCLnkD6.bpl=ExpressPrinting System ReportLinks for ExpressDBOrgChart by Developer Express Inc.
+D:\Del6C\Dx\PrintSys3\Lib\dxPSdxFCLnkD6.bpl=ExpressPrinting System ReportLinks for ExpressFlowChart by Developer Express Inc.
+D:\Del6C\Dx\PrintSys3\Lib\dxPScxSSLnkD6.bpl=ExpressPrinting System ReportLink for ExpressSpreadSheet by Developer Express Inc.
+[HistoryLists\hlConditionals]
+Count=1
+Item0=IGNORE_CODE_SIGN_CHECK
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlSearchPath]
+Count=1
+Item0=$(DELPHI)\Lib\Debug
+[HistoryLists\hlUnitOutputDirectory]
+Count=2
+Item0=DCUs
+Item1=C:\Users\Novatech113\Desktop\VendingMachine\DCUs
+[HistoryLists\hlOutputDirectorry]
+Count=2
+Item0=Output
+Item1=C:\Users\Novatech113\Desktop\VendingMachine\Output
